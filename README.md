@@ -18,7 +18,7 @@ A modern, scalable REST API for managing customers and their orders, built with 
 
 - **Runtime**: Node.js with TypeScript
 - **Framework**: Express.js
-- **Database**: SQLite (easily portable to PostgreSQL)
+- **Database**: PostgreSQL
 - **ORM**: Prisma
 - **Authentication**: JWT (jsonwebtoken)
 - **Validation**: Zod
